@@ -1,0 +1,6 @@
+{
+  "name": "2-Player Ludo Classic",
+  "description": "Play classic 2-player Ludo game on a single screen with interactive dice rolling, token capture, safe zones, and sound effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
